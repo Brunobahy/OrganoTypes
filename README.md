@@ -14,7 +14,7 @@ Você pode passear <a href="https://cursos.alura.com.br/course/react-desenvolven
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-Se liga nessa lista de tudo que usaremos nessa formação:
+Se liga nessa lista de tudo que usamos nessa formação:
 
 - `React`
 - `React Hooks`
@@ -24,7 +24,4 @@ E muito mais!
 
 ## 🛠️ Abrir e rodar o projeto
 
-Para abrir e rodar o projeto, execute `npm i` para instalar as dependências e `npm start` para inicar o projeto.
-
-Depois, acesse <a href="http://localhost:3000/">http://localhost:3000/</a> no seu navegador.
-
+https://organo-types.vercel.app/
